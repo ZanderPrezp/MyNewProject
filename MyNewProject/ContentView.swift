@@ -12,7 +12,7 @@ struct ContentView: View {
         Text("Hell, world!")
             .padding()
         Text("Begin of Login")
-       Text("Natali")
+       Text("Natali2")
     }
 }
 
